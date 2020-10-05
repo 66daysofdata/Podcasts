@@ -9,7 +9,7 @@ Welcome to this podcast page. Here you will find a list of podcasts gear towards
 <br><br>
 
 
-| Index | Podcast Name | Podcast link | 
+| Index | Podcast Name | Link | 
 | ----- | ------------ | ------------ |
 | 1.0 | Becoming a Data Scientist | [website link](https://www.becomingadatascientist.com/category/podcast/) |
 | 2.0 | Lex Fridman Podcast | [website link](https://lexfridman.com/podcast/) | 
