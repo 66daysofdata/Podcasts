@@ -34,6 +34,7 @@ Welcome to this podcast page. Here you will find a list of podcasts gear towards
 | 17.0 | Artificial Intelligence in Industry | [website link](https://techemergence.libsyn.com/) |
 | 18.0 | Partially Derivative | [website link](http://partiallyderivative.com/)|
 | 19.0 | Machine Learning Guide / Machine Learning Applied | [website link](http://ocdevel.com/mlg) |
+| 20.0 |  Devchat - Adventures in Machine Learning | [website link](https://devchat.tv/podcasts/adventures-in-machine-learning/)
 
 <br><br>
 
