@@ -8,7 +8,7 @@ Welcome to this podcast page. Here you will find a list of podcasts gear towards
 <br><br>
 
 
-| Index | Podcast Name | Link | 
+| Index | Podcast Name |     Link   | 
 | ----- | ------------ | ------------ |
 | 1.0 | Becoming a Data Scientist | [website link](https://www.becomingadatascientist.com/category/podcast/) |
 | 2.0 | Lex Fridman Podcast | [website link](https://lexfridman.com/podcast/) | 
@@ -22,14 +22,14 @@ Welcome to this podcast page. Here you will find a list of podcasts gear towards
 | 10.0 | Linear Digressions | [website link](http://lineardigressions.com/) |
 | 11.0 | O’Reilly Data Show | [website link](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/) |
 | 12.0 | Not So Standard Deviations | [website link](https://nssdeviations.com/) | 
-| 13.0 | Data Stories | [website lihnk](https://datastori.es/) |
-| 14.0 | Data Science at Home |  [website link](https://datascienceathome.com/) |
+| 13.0 | Data Stories | [websitelink](https://da tastori.es/) |
+| 14.0 | Data Science at Home | [website link](https://datascienceathome.com/) |
 | 15.0 | DataFramed | [website link](https://www.datacamp.com/community/podcast) |
-| 16.0 |  Learning Machines 101 |    [website link](https://www.learningmachines101.com/) | 
+| 16.0 | Learning Machines 101 |    [website link](https://www.learningmachines101.com/) | 
 | 17.0 | Artificial Intelligence in Industry | [website link](https://techemergence.libsyn.com/) |
 | 18.0 | Partially Derivative | [website link](http://partiallyderivative.com/)|
 | 19.0 | Machine Learning Guide / Machine Learning Applied | [website link](http://ocdevel.com/mlg) |
-| 20.0 |  Devchat - Adventures in Machine Learning | [website link](https://devchat.tv/podcasts/adventures-in-machine-learning/) |
+| 20.0 | Devchat - Adventures in Machine Learning | [website link](https://devchat.tv/podcasts/adventures-in-machine-learning/) |
 | 21.0 | Gradient Dissent - Stories from machine learning experts solving real world problems | [Website Link](https://www.wandb.com/podcast) |
 
 <br><br>
