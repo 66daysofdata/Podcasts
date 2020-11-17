@@ -8,10 +8,7 @@ Welcome to this podcast page. Here you will find a list of podcasts gear towards
 
 <br><br>
 
-----
-
-<br><br>
-
+---
 
 | Index | Podcast Name | Link | 
 | ----- | ------------ | ------------ |
