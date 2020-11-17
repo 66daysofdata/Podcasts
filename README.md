@@ -22,10 +22,10 @@ Welcome to this podcast page. Here you will find a list of podcasts gear towards
 | 10.0 | Linear Digressions | [website link](http://lineardigressions.com/) |
 | 11.0 | O’Reilly Data Show | [website link](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/) |
 | 12.0 | Not So Standard Deviations | [website link](https://nssdeviations.com/) | 
-| 13.0 | Data Stories | [website link](https://da tastori.es/) |
+| 13.0 | Data Stories | [website link](https://datastori.es/) |
 | 14.0 | Data Science at Home | [website link](https://datascienceathome.com/) |
 | 15.0 | DataFramed | [website link](https://www.datacamp.com/community/podcast) |
-| 16.0 | Learning Machines 101 |    [website link](https://www.learningmachines101.com/) | 
+| 16.0 | Learning Machines 101 | [website link](https://www.learningmachines101.com/) | 
 | 17.0 | Artificial Intelligence in Industry | [website link](https://techemergence.libsyn.com/) |
 | 18.0 | Partially Derivative | [website link](http://partiallyderivative.com/)|
 | 19.0 | Machine Learning Guide / Machine Learning Applied | [website link](http://ocdevel.com/mlg) |
